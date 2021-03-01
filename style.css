@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.container{
+  width: 100%;
+  font-family: 'Nerko One', sans-serif;
+  font-size: 300;
+  color: rgb(255, 255, 255);
+  background-color: rgb(159, 207, 224);
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+
+h1 {
+  text-shadow: 2px 2px #797979;
+  font-size: 100px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.deck{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  list-style-type: none;
+  padding-top: 50px;
+}
+
+.first-raw{
+  margin-bottom: 50px;
+  
+}
+
+.carta{
+  height: 210px;
+  width: 180px;
+  background-color:red;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  display: inline-block;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+  color: rgb(32, 30, 30);
+}

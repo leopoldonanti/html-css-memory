@@ -13,12 +13,13 @@
   background-color: rgb(159, 207, 224);
   text-align: center;
   margin: 0 auto;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 h1 {
   text-shadow: 2px 2px #797979;
   font-size: 100px;
+  text-transform:uppercase;;
 }
 
 p{
@@ -30,22 +31,57 @@ p{
   margin: auto;
   text-align: center;
   list-style-type: none;
-  padding-top: 50px;
+  
 }
 
 .first-raw{
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   
 }
 
 .carta{
-  height: 210px;
-  width: 180px;
-  background-color:red;
+  height: 200px;
+  width: 170px;
+  background-image: url(img/pattern.png);
+  background-size: 100px;
   border-radius: 10px;
   margin-bottom: 30px;
   margin-left: 20px;
   display: inline-block;
+  box-shadow: 4px 2px 2px 4px #888888;
+  overflow: hidden;
+  text-align: center;
+  cursor: pointer;
+}
+
+span{
+font-size: 30px; 
+padding-top: 180px;
+color:rgb(233, 100, 29);
+display: none;
+}
+
+.first-couple{
+
+}
+
+.second-couple{
+
+}
+
+.third-couple{
+
+}
+
+.fourth-couple{
+
+}
+
+.fifth-couple{
+
+}
+
+.sixth-couple{
   
 }
 
@@ -66,10 +102,6 @@ p{
 
 
 
-
-
-
-
-footer{
+h4{
   color: rgb(32, 30, 30);
 }
